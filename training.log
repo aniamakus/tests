@@ -1,0 +1,26 @@
+Training: 2021-10-18 11:25:57,577-rank_id: 0
+Training: 2021-10-18 11:26:03,725-softmax weight init successfully!
+Training: 2021-10-18 11:26:03,725-softmax weight mom init successfully!
+Training: 2021-10-18 11:26:03,726-: loss                     arcface
+Training: 2021-10-18 11:26:03,726-: network                  r18
+Training: 2021-10-18 11:26:03,726-: resume                   False
+Training: 2021-10-18 11:26:03,726-: output                   /output
+Training: 2021-10-18 11:26:03,726-: dataset                  webface
+Training: 2021-10-18 11:26:03,726-: embedding_size           512
+Training: 2021-10-18 11:26:03,726-: sample_rate              1
+Training: 2021-10-18 11:26:03,726-: fp16                     False
+Training: 2021-10-18 11:26:03,726-: momentum                 0.9
+Training: 2021-10-18 11:26:03,726-: weight_decay             0.0005
+Training: 2021-10-18 11:26:03,726-: batch_size               64
+Training: 2021-10-18 11:26:03,726-: lr                       0.1
+Training: 2021-10-18 11:26:03,726-: rec                      /data
+Training: 2021-10-18 11:26:03,726-: num_classes              10572
+Training: 2021-10-18 11:26:03,727-: num_image                forget
+Training: 2021-10-18 11:26:03,727-: num_epoch                1
+Training: 2021-10-18 11:26:03,727-: warmup_epoch             -1
+Training: 2021-10-18 11:26:03,727-: decay_epoch              [20, 28, 32]
+Training: 2021-10-18 11:26:03,727-: val_targets              ['lfw', 'cfp_fp', 'agedb_30']
+Training: 2021-10-18 11:26:03,727-: warmup_step              -3832
+Training: 2021-10-18 11:26:03,727-: total_step               3832
+Training: 2021-10-18 11:26:03,727-: decay_step               [76659, 107323, 122655]
+Training: 2021-10-18 11:27:22,568-Reducer buckets have been rebuilt in this iteration.
